@@ -1,6 +1,6 @@
 # Mijnlieff solver
 
-This program solves Andy Hopwood’s board game [Mijnlieff](https://www.hopwoodgames.com/shop-1/mijnlieff). For more information, see [my website](https://iamkate.com/games/mijnlieff/).
+This program solves Andy Hopwood’s board game [Mijnlieff](https://www.hopwoodgames.com/shop-1/mijnlieff). For more information, see [my website](https://iamkate.com/data/mijnlieff/).
 
 ## Usage
 
